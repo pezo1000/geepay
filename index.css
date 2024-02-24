@@ -292,6 +292,8 @@ footer{
     position: fixed;
     width: 100%;
     display: none;
+    top: 0;
+    z-index: 3;
   }
   .hambuger{
     height: 30PX;
